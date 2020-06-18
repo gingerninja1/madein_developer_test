@@ -8,7 +8,7 @@ const products = [
   {name: "Nonstick 12\"", weight: 2.0, price: 70, size: 12, id: 4}
 ]
 
-// Create two new arrays
+// Create two new arrays to hold products matching criteria
 var greaterThan75 = []
 var greaterThan1pt8 = []
 
