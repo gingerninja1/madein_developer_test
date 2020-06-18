@@ -14,4 +14,4 @@ function isPalindrome(palindrome) {
 console.log(isPalindrome("baker"));
 // Expected output is false
 console.log(isPalindrome("kayak"));
-// Expected out is true
+// Expected output is true
